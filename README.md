@@ -47,11 +47,8 @@ For further information, questions, or media inquiries, please contact:
 
 *Thank you for your interest in the Federal Government Reform Proposal. Let's work together toward a more accountable and effective government.*
 
+## License
+
+This project is open-sourced and available under the [MIT License](./LICENSE).
+
 ---
-
-### **README Notes**
-
-- **Adjust Links**: Replace `./path-to-chapter-1-file.md` and `./path-to-chapter-1-file.pdf` with the actual paths to your Markdown and PDF files.
-- **Update Contact Info**: Add your own contact information or a preferred method for people to engage with the project.
-
-This README format provides clarity on the project’s purpose, navigation, and how people can engage with the content. Let me know if you’d like further customization!
