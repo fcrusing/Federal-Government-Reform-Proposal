@@ -35,7 +35,7 @@ Each chapter in this repository is released as a standalone document, allowing f
 
 By integrating AI with ZBB and EPM, Chapter 3 emphasizes a more transparent, efficient, and data-driven approach to budgeting in the public sector, aligning resources with strategic goals while reinforcing accountability and public trust.
 
- - PDF Version: [Download Chapter 3 PDF](https://github.com/fcrusing/Federal-Government-Reform-Proposal/blob/main/Federal_Government_Reform_Plan_Chapter_3_AI_Powered_ZBB_EPM_Public_Sector.pdf)
+  - PDF Version: [Download Chapter 3 PDF](https://github.com/fcrusing/Federal-Government-Reform-Proposal/blob/main/Federal_Government_Reform_Plan_Chapter_3_AI_Powered_ZBB_EPM_Public_Sector.pdf)
 
 *Additional chapters will be added soon.*
 
