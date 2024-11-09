@@ -22,7 +22,7 @@ Each chapter in this repository is released as a standalone document, allowing f
 
    - PDF Version: [Download Chapter 2 PDF](https://github.com/fcrusing/Federal-Government-Reform-Proposal/blob/main/Federal_Government_Reform_Chapter_2_Preparatory_Steps.pdf)
 
-### [Chapter 3: AI-Powered ZBB and EPM for Public Sector](https://github.com/fcrusing/Federal-Government-Reform-Proposal/blob/main/Federal_Government_Reform_Chapter_3_AI_Powered_ZBB_EPM_for_Public_Sector.md)
+### [Chapter 3: AI-Powered ZBB and EPM for Public Sector](https://github.com/fcrusing/Federal-Government-Reform-Proposal/blob/main/Federal_Government_Reform_Chapter_3_AI_Powered_ZBB_EPM_Public_Sector.md)
 
 **Federal Government Reform Plan - Chapter 3: AI-Powered ZBB and EPM for Public Sector** introduces the integration of an AI-powered platform within the Executive Branch to streamline Zero-Based Budgeting (ZBB) and Enterprise Performance Management (EPM). This chapter outlines how AI enhances the budgeting process by enabling cross-agency comparisons, optimizing resource allocation, and supporting accountability through performance tracking with tailored Key Performance Indicators (KPIs).
 
@@ -35,7 +35,7 @@ Each chapter in this repository is released as a standalone document, allowing f
 
 By integrating AI with ZBB and EPM, Chapter 3 emphasizes a more transparent, efficient, and data-driven approach to budgeting in the public sector, aligning resources with strategic goals while reinforcing accountability and public trust.
 
- - PDF Version: [Download Chapter 3 PDF](https://github.com/fcrusing/Federal-Government-Reform-Proposal/blob/main/Federal_Government_Reform_Chapter_3_AI_Powered_ZBB_EPM_for_Public_Sector.pdf)
+ - PDF Version: [Download Chapter 3 PDF](https://github.com/fcrusing/Federal-Government-Reform-Proposal/blob/main/Federal_Government_Reform_Plan_Chapter_3_AI_Powered_ZBB_EPM_Public_Sector.pdf)
 
 *Additional chapters will be added soon.*
 
