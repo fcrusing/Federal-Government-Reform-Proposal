@@ -9,7 +9,7 @@ The purpose of this reform is to streamline federal operations by identifying wh
 ## Chapters
 Each chapter in this repository is released as a standalone document, allowing for focused review and discussion. Click the links below to access each chapter:
 
-1. **[Chapter 1: Mission Statement and Foundational Strategies](https://github.com/fcrusing/Federal-Government-Reform-Proposal/blob/main/Federal_Government_Reform_Chapter_1_Proposal.md)** - Outlines the overall mission, key goals, and guiding principles for the reform.
+### **[Chapter 1: Mission Statement and Foundational Strategies](https://github.com/fcrusing/Federal-Government-Reform-Proposal/blob/main/Federal_Government_Reform_Chapter_1_Proposal.md)** - Outlines the overall mission, key goals, and guiding principles for the reform.
    - PDF Version: [Download Chapter 1 PDF](https://github.com/fcrusing/Federal-Government-Reform-Proposal/blob/main/Federal_Government_Reform_Chapter_1_Proposal.pdf)
 
 ### [Chapter 2: Preparatory Steps (November 6, 2024 – January 20, 2025)](https://github.com/fcrusing/Federal-Government-Reform-Proposal/blob/main/Federal_Government_Reform_Chapter_2_Preparatory_Steps.md)
