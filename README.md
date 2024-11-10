@@ -34,7 +34,7 @@ Legal and Operational Challenges: Examines the need for legal oversight, legisla
 Expected Outcomes and State Control Transition: Outlines anticipated benefits of the reorganization, including enhanced accountability, resource optimization, and the potential for state-level control of certain programs, reducing federal tax obligations for states.
 By aligning federal agencies with constitutional mandates, Chapter 3 promotes a more focused, efficient government structure while empowering states to manage locally driven services with greater autonomy.
 
-PDF Version: Download Chapter 3 PDF
+   - PDF Version: [Download Chapter 3 PDF]
 
 ### [Chapter 4: AI-Powered ZBB and EPM for Public Sector](https://github.com/fcrusing/Federal-Government-Reform-Proposal/blob/main/Federal_Government_Reform_Chapter_4_AI_Powered_ZBB_EPM_Public_Sector.md)
 
