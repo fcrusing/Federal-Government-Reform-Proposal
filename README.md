@@ -22,6 +22,20 @@ Each chapter in this repository is released as a standalone document, allowing f
 
    - PDF Version: [Download Chapter 2 PDF](https://github.com/fcrusing/Federal-Government-Reform-Proposal/blob/main/Federal_Government_Reform_Chapter_2_Preparatory_Steps.pdf)
 
+
+### [Chapter 3: Organizing Federal Agencies by Constitutional Mandates]
+Federal Government Reform Plan - Chapter 3: Organizing Federal Agencies by Constitutional Mandates outlines a proposed reorganization of federal departments and agencies to align with core constitutional responsibilities. This chapter serves as an example of potential restructuring, focusing on transferring certain programs to state control, reducing federal redundancies, and enhancing operational efficiency within the federal government.
+
+Key Highlights:
+Principles of Constitutional Mandates: Establishes guiding principles based on constitutional requirements, distinguishing between mandatory and discretionary spending to ensure resources are allocated to constitutionally aligned programs.
+Review of Departments and Independent Agencies: Provides a comprehensive overview of each department’s core functions, key programs, and potential overlaps with other agencies, alongside disposition recommendations to streamline federal operations.
+Identifying Agencies for Disbanding or Reassignment: Highlights specific agencies for potential disbanding or restructuring, with functions redistributed to reduce duplication and enhance efficiency.
+Legal and Operational Challenges: Examines the need for legal oversight, legislative approval, and coordinated management to ensure smooth transitions and maintain service continuity.
+Expected Outcomes and State Control Transition: Outlines anticipated benefits of the reorganization, including enhanced accountability, resource optimization, and the potential for state-level control of certain programs, reducing federal tax obligations for states.
+By aligning federal agencies with constitutional mandates, Chapter 3 promotes a more focused, efficient government structure while empowering states to manage locally driven services with greater autonomy.
+
+PDF Version: Download Chapter 3 PDF
+
 ### [Chapter 4: AI-Powered ZBB and EPM for Public Sector](https://github.com/fcrusing/Federal-Government-Reform-Proposal/blob/main/Federal_Government_Reform_Chapter_4_AI_Powered_ZBB_EPM_Public_Sector.md)
 
 **Federal Government Reform Plan - Chapter 4: AI-Powered ZBB and EPM for Public Sector** introduces the integration of an AI-powered platform within the Executive Branch to streamline Zero-Based Budgeting (ZBB) and Enterprise Performance Management (EPM). This chapter outlines how AI enhances the budgeting process by enabling cross-agency comparisons, optimizing resource allocation, and supporting accountability through performance tracking with tailored Key Performance Indicators (KPIs).
